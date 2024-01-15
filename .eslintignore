@@ -5,3 +5,6 @@ requirements
 .vscode
 .husky
 jest.config.ts
+jest-unit-config.ts
+jest-integration-config.ts
+tsconfig.json
