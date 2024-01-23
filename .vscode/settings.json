@@ -6,5 +6,6 @@
   "typescript.preferences.quoteStyle": "single",
   "editor.renderWhitespace": "boundary",
   "prettier.semi": false,
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "livePreview.defaultPreviewPath": "/coverage/lcov-report/index.html"
 }
